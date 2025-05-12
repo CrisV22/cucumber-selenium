@@ -1,5 +1,3 @@
-**ENGLISH**
-
 **Objective:** Deepen knowledge in BDD using Cucumber and Gherking to test lojinha site from Julio de Lima - https://www.linkedin.com/in/juliodelimas/.
 
 **Methodology:**
