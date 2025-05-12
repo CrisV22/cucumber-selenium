@@ -1,18 +1,18 @@
-**Objective:** Deepen knowledge in BDD using Cucumber and Gherking to test lojinha site from Julio de Lima - https://www.linkedin.com/in/juliodelimas/.
-
-**Methodology:**
+**RESULTS/PROFITS**
 1. Reduce time, effort and resources spent on reworks and maintainance by applying Design Principles;
-2. Support strategic decision making by delivering fast and relevant feedbacks to the squad by automating test scenarios using the Smoke test strategy and by generating an automatic test report;
-4. Strengthen the team's communication and performance by using BDD methodology;
-5. Increase team's performance by using Design Patterns to add Reausability, Maintainability, Scalability and Readability to the code.
-
-**Design patterns:** Page objects, Page factory.
+2. Support strategic decision making by delivering fast and relevant feedbacks to the squad by automating test scenarios using the Smoke test strategy and generating an automatic test report in the end;
+4. Increase team's performance by strengthening communication among PO, DEV and QA by using BDD methodology;
+5. Support delivery of reliable, scalable and competitive systems/features by adding Reausability, Maintainability, Scalability and Readability to the code by using Design Patterns.
 
 **Design principles:** YAGNI, KISS, DRY.
+
+**Design patterns:** Page objects, Page factory.
 
 **Technologies:** Cucumber, Java, Selenium Webdriver and Junit.
 
 **Documents:** -
+
+**Objective:** Develop automated tests using Cucumber and Gherking commonly used in BDD methodology.
 
 ---
 
