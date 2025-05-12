@@ -1,7 +1,7 @@
 **RESULTS/PROFITS**
 1. **Reduce time, effort and resources** spent on reworks and maintainance by applying Design Principles;
 2. **Support strategic decision making** by delivering fast and relevant feedbacks to the squad by automating test scenarios using the Smoke test strategy and generating an automatic test report in the end;
-4. **Increase team's performance** by strengthening communication among PO, DEV and QA by using BDD methodology;
+4. **Increase team's performance** by strengthening communication among PO, DEV and QA once the structure support the usage of BDD;
 5. **Deliver reliable, scalable and competitive** systems/features by adding Reausability, Maintainability, Scalability and Readability to the code by using Design Patterns.
 
 **Design principles:** YAGNI, KISS, DRY.
